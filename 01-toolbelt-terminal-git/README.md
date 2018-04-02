@@ -15,11 +15,11 @@ This first day of class is an all-day session with the students that is mostly l
 
 - [Continuing going over the assigned readings](#readings) *[30-60 minutes]*
 - Discuss Career Coaching assignments
+- [Set up a JavaScript linter](#linter) *[15 minutes after Unix/Git is finished]*
+- [Verify Student Toolbelts](#toolbelt) *[30-45 minutes]*
 - [Code demo to prep for lab](#code) *[60 minutes]*
 - [LAB](#lab)
   - Write code as outlined in the lab assignment
-  - [Set up a JavaScript linter](#linter) *[15 minutes after Unix/Git is finished]*
-  - [Verify Student Toolbelts](#toolbelt) *[30-45 minutes]*
 
 **Learning Objectives**
 
@@ -88,6 +88,7 @@ In the lower left-hand corner of VSCode, click on the gear icon and select "Sett
 * "editor.tabSize" should be set to 2
 * "editor.detectIndentation" should be set to true
 * "editor.wordWrap" should be set to "on"
+* "editor.minimap.enabled" should be set to true
 
 [-top-](#top)
 
