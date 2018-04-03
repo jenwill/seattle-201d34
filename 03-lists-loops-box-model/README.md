@@ -8,7 +8,6 @@
 - [Code Review](#codereview) *[30 minutes]*
 - [JS Control Flow](#control) *[45 minutes]*
 - [CSS Box Model](#box) *[30 minutes]*
-- [Git Branches & Lab Prep](#git) *[45 minutes]*
 
 **Learning Objectives**
 
@@ -78,11 +77,5 @@ Let's take about 30 minutes to do our first code review session. We're going to 
 - p.317: Changing inline/block
 - p.318: Visibility
 - p.321: Additional border topics (border images, box shadow, border radius)
-
-[-top-](#top)
-
-## Git Branches & Lab Prep
-
-We're going to go over the use of branches in Git and how that integrates into workflow. Up to this point we've been doing everything in the master branch, but from this day forward, you should generally never work in master on your own laptop except in specific use cases.
 
 [-top-](#top)
