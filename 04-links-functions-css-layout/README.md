@@ -5,7 +5,11 @@
 
 ## Today's Schedule
 - Announcements
-	- Keep in mind that the quizzes are open-book, so do use the resources you choose to figure out the answers: books, internet, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take after the last class and right before Project Week.
+  - Keep in mind that the quizzes are open-book, so do use the resources you choose to figure out the answers: books, internet, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take after the last class and right before Project Week.
+  - Admissions will visit our classroom every Thursday afternoon
+  - Reminder about Partner Power Hour
+  - Reminder about Weekly Survey
+  - Close your lids!
 - Code Review *[45 minutes]:*
 - [CSS box model + layout](#css) *[45 minutes]:*
 - [JS functions](#js) *[45 minutes]:*
