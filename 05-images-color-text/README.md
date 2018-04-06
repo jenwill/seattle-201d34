@@ -12,6 +12,7 @@
 - [Various topics](#smattering) *[10 minutes]*
 - [Git Branching, including deployment](#git) *[45 minutes]*
 - [Lab Overview](#lab) *[45 minutes]*
+- [Lab](https://github.com/codefellows/201d34-lab-5) *[all afternoon]*
 
 **Learning Objectives**
 
@@ -84,7 +85,7 @@ It's time to take a look at branching in Git. We'll also go over the commands an
 
 ## Code demo for today's lab
 
-Today's lab is a 'one-off' lab, in that it is not directly connected to your weekly project.
+[Today's lab](https://github.com/codefellows/201d34-lab-5) is a 'one-off' lab, in that it is not directly connected to your weekly project.
 
 You'll be working individually today. The GitHub workflow today is different, too, and is designed to give you a lot of practice working with branches, which is the last major piece of Git for us to cover. We need to spend a bit of time with it, and get practice with it, so that you understand what you are doing.
 
