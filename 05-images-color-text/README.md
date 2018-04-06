@@ -6,7 +6,7 @@
 ## Today's Schedule
 - Announcements
 	- **Reminder:** Weekly surveys will go out to students in email. Your survey responses are very helpful and meaningful to us. Feedback is a gift.
-	- The instructor will have a 15-minute one-on-one meeting with each student during the coming week: this will be an opportunity to review your progress, answer any questions you have, and discuss any topics the instructor sees appropriate, such as your future plans in the program. We will start the process of scheduling those meetings very soon.
+	- Allie and Michelle will have a 15-minute one-on-one meeting with each student next week: this will be an opportunity to review your progress, answer any questions you have, and discuss any other important topics, such as your future plans in the program. We will start the process of scheduling those meetings very soon: look for a link later today!
 - Code review & reflection *[30 minutes]*
 - [Readings and various topics](#readings) *[20 minutes]*
 - [Various topics](#smattering) *[10 minutes]*
@@ -29,6 +29,9 @@ As a result of completing Lecture 5 of Code 201, students will:
 - CSS Chapter 12: "Text"
 
 [-top-](#top)
+
+## Code Review Warmup
+Talk to someone near you about your experience pair programming yesterday. What went well? What was challenging? How did it feel to give up control of your code to a peer? Any stories you want to share?
 
 <a id="readings"></a>
 
