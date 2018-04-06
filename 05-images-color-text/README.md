@@ -81,6 +81,9 @@ Talk to someone near you about your experience pair programming yesterday. What 
 
 It's time to take a look at branching in Git. We'll also go over the commands and do some practice with Git branches in the terminal.
 
+## Deployment Basics
+
+To deploy your work so it's available online, we'll use GitHub pages. You can follow [their directions](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages) on how to publish your site so it's available at *yourusername*.github.io/about-me.
 <a id="lab"></a>
 
 ## Code demo for today's lab
