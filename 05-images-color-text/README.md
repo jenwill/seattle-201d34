@@ -6,11 +6,13 @@
 ## Today's Schedule
 - Announcements
 	- **Reminder:** Weekly surveys will go out to students in email. Your survey responses are very helpful and meaningful to us. Feedback is a gift.
-	- The instructor will have a 15-minute one-on-one meeting with each student during the coming week: this will be an opportunity to review your progress, answer any questions you have, and discuss any topics the instructor sees appropriate, such as your future plans in the program. We will start the process of scheduling those meetings very soon.
-- [Readings and various topics](#readings) *[30 minutes]*
-- [Various topics](#smattering) *[75 minutes]*
-- [Git Branching, including deployment](#git) *[30 minutes]*
+	- Allie and Michelle will have a 15-minute one-on-one meeting with each student next week: this will be an opportunity to review your progress, answer any questions you have, and discuss any other important topics, such as your future plans in the program. We will start the process of scheduling those meetings very soon: look for a link later today!
+- Code review & reflection *[30 minutes]*
+- [Readings and various topics](#readings) *[20 minutes]*
+- [Various topics](#smattering) *[10 minutes]*
+- [Git Branching, including deployment](#git) *[45 minutes]*
 - [Lab Overview](#lab) *[45 minutes]*
+- [Lab](https://github.com/codefellows/201d34-lab-5) *[all afternoon]*
 
 **Learning Objectives**
 
@@ -28,6 +30,9 @@ As a result of completing Lecture 5 of Code 201, students will:
 - CSS Chapter 12: "Text"
 
 [-top-](#top)
+
+## Code Review Warmup
+Talk to someone near you about your experience pair programming yesterday. What went well? What was challenging? How did it feel to give up control of your code to a peer? Any stories you want to share?
 
 <a id="readings"></a>
 
@@ -66,28 +71,24 @@ As a result of completing Lecture 5 of Code 201, students will:
 
 ## A smattering of topics
 
-- 'use strict'
-- W3 Schools vs. MDN vs Stack Overflow, etc.
-- Linter setups
-- The increment operator
 - Logical operators % short circuiting
-- String methods
-- Array methods
 - Function declarations vs. function assignments
 - CSS Zen Garden
-- HAMs
 
 <a id="git"></a>
 
 ## Git branching, including deployment
 
-It's time to take a look at branching in Git. We'll also go over the commands and do some practice with Git branches together in our terminals.
+It's time to take a look at branching in Git. We'll also go over the commands and do some practice with Git branches in the terminal.
 
+## Deployment Basics
+
+To deploy your work so it's available online, we'll use GitHub pages. You can follow [their directions](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages) on how to publish your site so it's available at *yourusername*.github.io/about-me.
 <a id="lab"></a>
 
 ## Code demo for today's lab
 
-Today's lab is a 'one-off' lab, in that it is not directly connected to your weekly project.
+[Today's lab](https://github.com/codefellows/201d34-lab-5) is a 'one-off' lab, in that it is not directly connected to your weekly project.
 
 You'll be working individually today. The GitHub workflow today is different, too, and is designed to give you a lot of practice working with branches, which is the last major piece of Git for us to cover. We need to spend a bit of time with it, and get practice with it, so that you understand what you are doing.
 
