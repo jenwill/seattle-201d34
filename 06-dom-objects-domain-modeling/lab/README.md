@@ -26,6 +26,6 @@ Include in your repository a `.eslintrc.json` file whose contents are copied fro
  - As a developer, I want to make some headway on the public-facing page for the business
 
 ### Helpful Resources
-[Problem Domain Document](/assets/support.md)
+[Problem Domain Document](./assets/support.md)
 
-[Assignment Assets](/assets)
+[Assignment Assets](./assets)
