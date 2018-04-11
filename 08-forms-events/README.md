@@ -62,7 +62,7 @@ As a result of completing Lecture 8 of Code 201, students will:
 
 To learn about inputs, each person will be responsible for learning about & providing a code snippet for one particular input type. You'll get 5 minutes to research your input type and come up with a working HTML snippet that demonstrates what that input is useful for. (If you have extra time, try adding in some interesting attributes.) Then we'll go through them all, and you'll have 30 seconds to explain to your classmates why you would choose to use that particular input in a form.
 
-As an example, for the `text` input, someone might submit the code snippet:
+As an example, for the `text` input, someone might send a Slack message with the code snippet:
 
 ```html
 <input type="text" maxlength="8" />
