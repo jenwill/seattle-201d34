@@ -113,3 +113,29 @@ Dog.renderAllDogs();
 // Now we need to call our functions: the one for the header row, and the one for generating the individual dog rows
 // gary.renderRow();
 // charlotte.renderRow();
+
+// adding in js for alert!
+
+var headerElement = document.getElementById('header');
+
+headerElement.addEventListener('click', function() {
+  alert('you clicked it!');
+});
+
+function handleDogFormSubmitted(event) {
+  // stop the page from refreshing
+  event.preventDefault();
+  console.log('the form was submitted!');
+  var formElement = event.target;
+  var newDog = new Dog(formElement.name.value, formElement.color.value, formElement.breed.value, formElement.nickname.value);
+  console.log(newDog);
+  newDog.renderRow();
+  //var newDog = new Dog(formElement.name, color, breed, nickname);
+}
+
+// function handleDogFormSubmitted(potato) {
+//   potato.preventDefault();
+//   console.log('the form was submitted!');
+// }
+var dogFormElement = document.getElementById('add-dog-form');
+dogFormElement.addEventListener('submit', handleDogFormSubmitted);

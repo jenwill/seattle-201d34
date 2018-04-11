@@ -6,7 +6,7 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   </head>
   <body>
-    <h1>Dogs I Know</h1>
+    <h1 id="header">Dogs I Know</h1>
     <h2>First, let's make the table in HTML</h2>
     <table>
       <tr>
@@ -53,6 +53,18 @@
       <tbody></tbody>
       <tfoot></tfoot> -->
     </table>
+
+    <form id="add-dog-form">
+      <label for="name-input">Name</label>
+      <input type="text" id="name-input" name="name" />
+      <label for="color-input">Color</label>
+      <input type="text" id="color-input" name="color" />
+      <label for="breed-input">Breed</label>
+      <input type="text" id="breed-input" name="breed" />
+      <label for="nickname-input">Nickname</label>
+      <input type="text" id="nickname-input" name="nickname" />
+      <input type="submit" />
+    </form>
 
     <script src="app.js"></script>
   </body>
