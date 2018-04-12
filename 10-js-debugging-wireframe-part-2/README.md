@@ -111,7 +111,7 @@ console.log(addAndSubtract(getNum(), getNum()));
 // what is console.log'd?
 
 var saved = getNum();
-console.log(getNum() + 3, saved);
+console.log(addAndSubtract(getNum() + 3, saved));
 // what is console.log'd?
 ```
 
