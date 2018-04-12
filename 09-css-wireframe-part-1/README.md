@@ -10,6 +10,9 @@
 - [Layout Demo 1](#layout1) *[60 minutes]*
 - [Layout Demo 2](#layout2) *[75 minutes]*
 
+- [Table Code Pen](https://codepen.io/agrampa/pen/zWbQqx?editors=0100)
+- [Design Comp Wireframe](https://codepen.io/agrampa/pen/YaMwzo?editors=0100)
+
 **Learning Objectives**
 
 As a result of completing Lecture 9 of Code 201, students will:
