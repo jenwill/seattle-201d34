@@ -78,7 +78,7 @@ var classInfo201d34 = [
 // using the classInfo201d34 variable from above...
 
 for (var i = 0; i < classInfo201d34.length; i++) {
-  console.log(classInfo201d34[i].name.charAt(classInfo201d34.heightInInches % classInfo201d34[i].name.length));
+  console.log(classInfo201d34[i].name.charAt(classInfo201d34[i].heightInInches % classInfo201d34[i].name.length));
 }
 // what is console.log'd?
 // that line of code is fairly incomprehensible. How would you fix it?
