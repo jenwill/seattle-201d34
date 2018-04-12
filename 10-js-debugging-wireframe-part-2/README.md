@@ -108,9 +108,11 @@ function addAndSubtract(a, b) {
 }
 
 console.log(addAndSubtract(getNum(), getNum()));
+// what is console.log'd?
 
 var saved = getNum();
 console.log(getNum() + 3, saved);
+// what is console.log'd?
 ```
 
 ### Snippet 6
@@ -137,5 +139,6 @@ console.log(addAndSubtractNextNum(5));
 console.log(addAndSubtractNextNum(5));
 console.log(addAndSubtractNextNum_v2(5));
 console.log(addAndSubtractNextNum_v2(5));
+console.log(addAndSubtractNextNum(5));
 // what is console.log'd?
 ```
