@@ -5,17 +5,18 @@
 
 ## Today's Schedule
 - Announcements
-- Code Review *[30 minutes]*
-- [Go over the assigned readings](#readings) *[60 minutes]*
+- Code Review *[40 minutes]*
+- [Go over the assigned readings](#readings) *[30 minutes]*
+  - [Forms and inputs](#forms) *[20 minutes]*
 - Code demo *[90 minutes]*
 
 **Learning Objectives**
 
 As a result of completing Lecture 8 of Code 201, students will:
 - Be able to add an input form to an HTML document with properly structured HTML including the necessary `<form>`, `<input>`, and `<label>` tags, as well as the useful but not necessary `<fieldset>` tag, as measured by successful completion of the daily code assignment and a quiz administered in Canvas.
-Demonstrate how to use JavaScript events with the .addEventListener() method on a DOM element (specifically, an HTML form), using either a named or anonymous event handler function, as measured by successful completion of the daily code assignment
-Be able to add a new row to their data table(s) by storing, computing, and rendering data from the HTML form, as measured by successful completion of the daily code assignment
-Be able to successfully pair program with a fellow student and manage the collaborative and version control aspects of working with Git (from the command line) and GitHub (in the browser), as measured by successful completion of the daily code assignment.
+- Demonstrate how to use JavaScript events with the .addEventListener() method on a DOM element (specifically, an HTML form), using either a named or anonymous event handler function, as measured by successful completion of the daily code assignment
+- Be able to add a new row to their data table(s) by storing, computing, and rendering data from the HTML form, as measured by successful completion of the daily code assignment
+- Be able to successfully pair program with a fellow student and manage the collaborative and version control aspects of working with Git (from the command line) and GitHub (in the browser), as measured by successful completion of the daily code assignment.
 
 <a id="readings"></a>
 
@@ -54,3 +55,41 @@ Be able to successfully pair program with a fellow student and manage the collab
 - p.286: HTML5 events
 
 [-top-](#top)
+
+<a id="forms"></a>
+
+## Forms
+
+To learn about inputs, each person will be responsible for learning about & providing a code snippet for one particular input type. You'll get 5 minutes to research your input type and come up with a working HTML snippet that demonstrates what that input is useful for. (If you have extra time, try adding in some interesting attributes.) Then we'll go through them all, and you'll have 30 seconds to explain to your classmates why you would choose to use that particular input in a form.
+
+As an example, for the `text` input, someone might send a Slack message with the code snippet:
+
+```html
+<input type="text" maxlength="8" />
+```
+
+And their explanation might be:
+
+>The text input type is useful for when you want the user to be able to type things into a box. It shows this box, which is one line, and lets the user type things in. I also put in this `maxlength` attribute, which cuts the user off after they type in that many characters.
+
+
+The input types we'll look at are:
+
+1. `button`
+1. `checkbox`
+1. `color`
+1. `date`
+1. `email`
+1. `file`
+1. `hidden`
+1. `month`
+1. `number`
+1. `radio`
+1. `range`
+1. `reset`
+1. `search`
+1. `submit`
+1. `tel`
+1. `time`
+1. `option` and `select`
+1. `textarea`
