@@ -96,6 +96,7 @@ function getNum() {
 
 console.log(getNum());
 console.log(getNum());
+console.log(getNum() + getNum());
 // what is console.log'd?
 ```
 
